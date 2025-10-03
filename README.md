@@ -90,3 +90,6 @@ ssh -i new-key-pair.pem ubuntu@<old-instance-public-ip>
 
 <img width="1919" height="977" alt="Screenshot 2025-10-03 195024" src="https://github.com/user-attachments/assets/2b3f1245-5d2e-4587-a254-40868aacb933" />
 
+## Author : Suyash Dahitule
+
+
