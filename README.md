@@ -83,7 +83,7 @@ ssh -i new-key-pair.pem ubuntu@<old-instance-public-ip>
 🎉 You have successfully restored SSH access to the old instance!
 <img width="1919" height="1079" alt="Screenshot 2025-10-03 194658" src="https://github.com/user-attachments/assets/608be539-ae68-4801-828b-f11a618d0650" />
 
-QUICK CHECK
+## QUICK CHECK for VOLUMES
 
 
 <img width="1919" height="978" alt="Screenshot 2025-10-03 195006" src="https://github.com/user-attachments/assets/551c482b-1c93-4aad-b0ee-f93a6f763e1c" />
